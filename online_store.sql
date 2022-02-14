@@ -63,10 +63,26 @@ CREATE TABLE 'customers' (
     'mid_name' varchar(20),
     'lname' varchar (20) not null,
     'email' varchar (30) not null unique,
+    'p_number' varchar(15) not null unique,
     'reg_date' date not null,
     'status(active)' boolean,
     'delivery_address' varchar (50) not null,
     'news_letter_subs' boolean,
-    'selling_p_id' int unique not null,
+    'selling_p_id' int unique not null
 
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci;
+
+CREATE TABLE 'employees' (
+    'staff_id' int auto_increment primary key unique,
+    'fname' varchar(20) not null,
+    'mid_name' varchar(20),
+    'lname' varchar(20) not null,
+    'email' varchar (30) not null unique,
+    'p_number' varchar(15) not null unique,
+    'delivery_address' varchar(50),
+    'reg_date' date not null,
+    'role' varchar(35) not null,
+    'department_id' int unique not null,
+    'status' boolean
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci;;
+ 
