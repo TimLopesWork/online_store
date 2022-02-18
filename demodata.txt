@@ -1,0 +1,21 @@
+1. smart phones:
+smart phones, Apple Iphone, Apple, Iphone 12 64 GT -puhelin valkoinen, 2020, MGJ63FS/A, 699,00€, (Nappaa upeat valokuvat ja yksityiskohtaiset videot iPhone 12 5G -älypuhelimen 12 megapikselin kaksoiskameralla, ja tutki niitä 6,1” Super Retina XDR OLED -näytöltä.), http://example.com/assets/public/p_img/1863254.png, A, New, 15
+smart phones, Sony android phone, Sony, Sony Xperia 10 III 5G -Android-puhelin musta, 2021, XQBT52C4W.EEAC, 449,00€, (Sony Xperia 10 III -älypuhelimella on IP65/68-luokitus, ja sen ominaisuuksiin lukeutuu 5G-tuki, kaunis 6" OLED-kosketusnäyttö, tekoälyavusteinen 12 + 8 + 8 megapikselin kolmoiskamera ja 4500 mAh akku kattavilla virranhallinta-asetuksilla.), http://example.com/assets/public/p_img/1863254.png, A, New, 25
+smart phones, Asus android phone, Asus, Asus ROG Phone 5s Pro -Android-puhelin Dual-SIM 18/512 Gt musta, 2022, ZS676KS-1A037EU, 1 149,00€, (Asus ROG Phone 5s Pro -älypuhelin tarjoaa erityisesti pelaajille suunnattuja monipuolisia ominaisuuksia.), http://example.com/assets/public/p_img/1863254.png, A, New, 5
+smart phones, Xiaomi android phone, Xiaomi, Xiaomi Redmi 9C NFC -Android-puhelin Dual-SIM, 64 Gt, harmaa, 2020, MZB07VYEU, 119,00€, (Xiaomi Redmi 9C NFC -älypuhelin tukee NFC-lähimaksuominaisuutta ja -pariliitoksia. Laitteessa on 6,53” HD+ -kosketusnäyttö, 13 + 2 megapikselin AI-tuplakamera sekä MediaTek Helio G35 -prosessori.), http://example.com/assets/public/p_img/1863254.png, A, Used, 20
+smart phones, Motorola android phone, Motorola, Motorola Moto G41 -Android-puhelin, Dual-SIM, 128 Gt, Pearl Gold, 2022, PAS40015SE, 249,00€, (Motorola Moto G41 -älypuhelimessa on 6,4” OLED-kosketusnäyttö, optisella kuvanvakaimella sekä Quad Pixel -teknologialla varustettu 48 + 8 + 2 megapikselin kolmoiskamera sekä 30 W pikalatausta tukeva 5000 mAh akku.), http://example.com/assets/public/p_img/1863254.png, A, New, 15
+
+2. Fixed Phones:
+fixed phones, Erifon fixed phone, Erifon, Erifon 4G Plus pöytä-GSM puhelin, musta, not available, 132-2400, 119,00€, (Helppokäyttöinen perinteistä lankapuhelinta muistuttava 4G-puhelin, joka toimii myös akkukäyttöisesti. Käyttö on virtaviivaista selkeän näytön ja isojen näppäinten ansiosta.), http://example.com/assets/public/p_img/1863254.png, A, Used, 5
+fixed phones, Doro fixed phone, Doro, Doro 312CS, 5639, 54,90€, (Tässä suositussa puhelimessa on suuri ja selkeä näyttö. Hyvin sijoitettu visuaalinen soittomerkkivalo auttaa näkemään, milloin joku soittaa. Soittajan numeron näyttö ja kaiutin ovat käteviä toimintoja.), http://example.com/assets/public/p_img/1863254.png, A, Used, 3
+fixed phones, Doro fixed phone, Doro, Doro 901c, not available, 4756, 21,90€, (Doro 901c on pienikokoinen ja hienostunut pöytäpuhelin. Sen kuulokeosassa on integroitu näppäimistö ja puhelinpainike – fiksu ratkaisu, kun tilaa ei ole liikaa.), http://example.com/assets/public/p_img/1863254.png, NA, New, 0
+fixed phones, Gigaset fixed phone, Gigaset DA710, Gigaset, not available, S30350-S213-R201, 59€, (Helppokäyttöinen lankapuhelin kotiin tai toimistoon. Tilaa 100 yhteystiedolle ja mukana useita käteviä toimintoja.), http://example.com/assets/public/p_img/1863254.png, A, New, 5
+fixed phones, Doro fixed phone, Doro PhoneEasy, Doro, not available, PHONEEASY100WWH, 79,95€, (Langaton DECT-puhelin, jossa suuret näppäimet, helppolukuinen iso näyttö ja hyvä äänenlaatu. Mukana 2 luuria.) http://example.com/assets/public/p_img/1863254.png, A, New, 10
+
+
+
+
+
+
+
+

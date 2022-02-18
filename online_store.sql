@@ -28,7 +28,6 @@ CREATE TABLE `subcategories` (
 );
 CREATE TABLE `products` (
     `product_id` int auto_increment primary key,
-    `product_name` varchar (100) not null,
     `category_id` int not null,
         constraint fk_category
         foreign key (category_id) 
@@ -41,6 +40,7 @@ CREATE TABLE `products` (
         references subcategories(subcategory_id)
             on update cascade
             on delete cascade,
+    `product_name` varchar (100) not null,
     `product_brand` varchar (100) not null, 
     `product_model` varchar (100) not null, 
     `made_in_year` date not null, 
