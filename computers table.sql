@@ -9,3 +9,10 @@ insert into products (`category_id`,`subcategory_id`,`product_name`,`product_bra
 (1,2,'iMac','Apple','iMac 21.5" MHK03',2019,'D204527',1250,'Intel Core i5 dual core processor, 2.3GHz, 21.5 "Full HD display, 8 GB DDR4 RAM, 256GB HDD','D-Img3','B','New',14),
 (1,2,'Lenovo Legion','Lenovo','Legion T5 gaming',2020,'DG308868',1560,'AMD ™ Ryzen ™ 7 5800 processor, Nvidia GeForce RTX 3070, 16 GB DDR4 RAM, 1 TB NVMe SSD','D-Img4','A','New',11),
 (1,2,'Mac mini','Apple','mini 2020 MXNG2',2020,'D161657',1270,'8th generation Intel® Core® i5, 4x Thunderbolt 3, HDMI 2.0, 8 GB DDR4 RAM, 512 GB SSD','D-Img5','C','New',23);
+
+insert into customers ('fname' ,'mid_name','lname' ,'email' ,'p_number' ,'reg_date' ,'status(active)' ,'delivery_address' ,'news_letter_subs' ,'selling_p_id') values 
+('Iris','Allen','West','irillan23@gmail.com','+358405694329','25-8-2021',True,'Puolakantie 34 Helsinki',false,256),
+('Hassan','','Gonzales','Gonzalzab@gmail.com','+358407198675','12-1-2022',false,'Linnankatu 81 Espoo',True,679);
+
+insert into employees ('fname','mid_name' ,'lname' ,'email' ,'p_number' ,'delivery_address' ,'reg_date' ,'role' ,'department_id' ,'status') values
+('ilyass','','souhail','silyou2393@gmail.com','+358403638670','visaemantie 25 Hämeenlinna','26-11-2020','deliverer',3,True);
